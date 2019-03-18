@@ -2,5 +2,5 @@
 Website made with HTML / CSS / SASS
 
 
-#Responsive
+# Responsive
 All images, text, and objects are responsive to all screen sizes
